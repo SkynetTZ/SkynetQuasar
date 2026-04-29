@@ -16,6 +16,10 @@ Always obtain explicit permission before using any remote administration tools.
 
 <br>
 
+<img width="1206" height="1812" alt="IMG_1881" src="https://github.com/user-attachments/assets/7c8c8c8e-40b1-4c8c-80f9-dfd81452d232" />
+<img width="1795" height="1115" alt="Screenshot 2026-04-29 at 13 08 44" src="https://github.com/user-attachments/assets/4238776a-8b1e-4010-a085-a4b714dca9ae" />
+<img width="1795" height="1115" alt="Screenshot 2026-04-29 at 12 57 13" src="https://github.com/user-attachments/assets/4fc5c595-ba44-4374-9590-49a717b63f58" />
+
 ## 📖 Table of Contents
 - [About](#-about)
 - [Enhanced & New Functionalities](#-enhanced--new-functionalities)
